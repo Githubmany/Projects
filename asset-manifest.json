@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/react-gh-pages/static/js/main.207e3280.js",
-    "static/js/787.67b19937.chunk.js": "/react-gh-pages/static/js/787.67b19937.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
-    "main.207e3280.js.map": "/react-gh-pages/static/js/main.207e3280.js.map",
-    "787.67b19937.chunk.js.map": "/react-gh-pages/static/js/787.67b19937.chunk.js.map"
+    "main.css": "/get-advice-v2/static/css/main.e6c13ad2.css",
+    "main.js": "/get-advice-v2/static/js/main.fbd73fb5.js",
+    "static/js/787.b2d3ce21.chunk.js": "/get-advice-v2/static/js/787.b2d3ce21.chunk.js",
+    "index.html": "/get-advice-v2/index.html",
+    "main.e6c13ad2.css.map": "/get-advice-v2/static/css/main.e6c13ad2.css.map",
+    "main.fbd73fb5.js.map": "/get-advice-v2/static/js/main.fbd73fb5.js.map",
+    "787.b2d3ce21.chunk.js.map": "/get-advice-v2/static/js/787.b2d3ce21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.207e3280.js"
+    "static/js/main.fbd73fb5.js"
   ]
 }
